@@ -1,0 +1,29 @@
+[
+  {
+    "productID": "O01",
+    "title": "Product 1",
+    "description": "Description 1",
+    "image": "images/products/aros-argolla-1.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "O02",
+    "title": "Product 2",
+    "description": "Description 2",
+    "image": "images/products/aros-argolla-2.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "O03",
+    "title": "Product 3",
+    "description": "Description 3",
+    "image": "images/products/aros-argolla-3.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  }
+]

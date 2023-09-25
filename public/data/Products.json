@@ -1,0 +1,74 @@
+[
+  {
+    "productID": "A01",
+    "title": "Product 1",
+    "description": "Description 1",
+    "image": "images/products/aros-pasante-1.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A02",
+    "title": "Product 2",
+    "description": "Description 2",
+    "image": "images/products/aros-pasante-2.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A03",
+    "title": "Product 3",
+    "description": "Description 3",
+    "image": "images/products/aros-pasante-3.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A04",
+    "title": "Product 4",
+    "description": "Description 4",
+    "image": "images/products/aros-argolla-11.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A05",
+    "title": "Product 5",
+    "description": "Description 5",
+    "image": "images/products/aros-argolla-10.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A06",
+    "title": "Product 6",
+    "description": "Description 6",
+    "image": "images/products/aros-argolla-9.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A07",
+    "title": "Product 7",
+    "description": "Description 7",
+    "image": "images/products/aros-argolla-8.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  },
+  {
+    "productID": "A08",
+    "title": "Product 8",
+    "description": "Description 8",
+    "image": "images/products/aros-argolla-7.jpg",
+    "price": 10,
+    "stock": 10,
+    "category": ["aros", "corazon"]
+  }
+]
